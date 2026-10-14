@@ -1,0 +1,15 @@
+# Archivos compilados y carpetas de salida
+bin/
+out/
+*.class
+
+# Datos generados localmente por la aplicación
+asistencia.dat
+
+# Configuración local del editor
+.vscode/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+*.log
